@@ -4,6 +4,10 @@
 Pythonによるデータ分析勉強会のリポジトリです。  
 大久保の有志で運営されています。
 
+## テーマ
+* [頻度分析](https://github.com/uurotanli/PyDataOkubo/tree/master/01.FrequensyAnalysis)
+* (以降検討中）
+
 ## 環境
 特に断りが無い場合は、OSはWindows、Pythonのバージョンは3.xを想定しています。  
 また、環境構築には「Anaconda」というPythonの数値計算環境をまとめたディストリビューションを使用していますので、Anacondaに含まれるライブラリは既にインストールされているものとしています。  
@@ -14,10 +18,6 @@ Pythonによるデータ分析勉強会のリポジトリです。
 まぁ何だか良く分からないという方は、大人しく[Continuumのサイト](http://www.continuum.io/)から
 Anacondaをダウンロードしてインストールした方が何かと楽です。  
 Python 2系 or 3系、32bit or 64bitの選択をお間違え無く。
-
-## テーマ
-* [頻度分析](https://github.com/uurotanli/PyDataOkubo/tree/master/01.FrequensyAnalysis)
-* (以降検討中）
 
 ## 注意
 このリポジトリ作成者のPythonスキルは初心者に毛が生えた程度です。  
